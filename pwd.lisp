@@ -8,6 +8,13 @@
   :hnuid "geerlingguy"
   :bio "Builds large enterprise deployments on private and public cloud infrastructure.")
 
+ (:name "John Graham-Cumming"
+  :site "https://jgc.org/"
+  :feed "https://blog.jgc.org/feeds/posts/default"
+  :about "https://www.seangoedecke.com/about"
+  :hnuid "jgc"
+  :bio "Original writer of POPFile.  Member of the board of directors at Cloudflare.")
+
  (:name "Sean Goedecke"
   :site "https://www.seangoedecke.com/"
   :feed "https://www.seangoedecke.com/rss.xml"
