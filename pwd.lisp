@@ -126,6 +126,12 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
+ (:name "Sebastiaan Vermeulen"
+  :site "https://vqi.io/"
+  :blog "https://vqi.io/blog/"
+  :hnuid "sebasv_"
+  :bio "Data Scientist, Open Source contributor. Writes about solving problems.")
+
  (:name ""
   :site ""
   :blog ""
