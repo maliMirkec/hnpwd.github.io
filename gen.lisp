@@ -15,7 +15,7 @@
   (remove-if
    (lambda (item)
      (or (equal item '(:end))
-         (string= (getf item :site) "https://example.com/")))
+         (string= (getf item :site) "")))
    (read-list "pwd.lisp")))
 
 (defun validate-name-order (items)

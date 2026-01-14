@@ -1,11 +1,17 @@
 ;;;; HN Personal Websites Directory
 ;;;; ==============================
 
-((:name "Anthony Bonkoski"
+((:name "Alex Narayan"
+  :site "https://gigatexal.blog/"
+  :about "https://gigatexal.blog/pages/about/about.html"
+  :hnuid "gigatexal"
+  :bio "Writes about computers and technology")
+
+ (:name "Anthony Bonkoski"
   :site "https://xorvoid.com/"
   :feed "https://xorvoid.com/rss.xml"
   :hnuid "xorvoid"
-  :bio "Writes abot low-level programming and mathematics")
+  :bio "Writes about low-level programming and mathematics.")
 
  (:name "Chris Morgan"
   :site "https://chrismorgan.info/"
@@ -13,7 +19,7 @@
   :about "https://chrismorgan.info/about/"
   :blog "https://chrismorgan.info/blog/"
   :hnuid "chrismorgan"
-  :bio "Software developer, dealing mostly with web things")
+  :bio "Software developer, dealing mostly with web things.")
 
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
