@@ -121,7 +121,7 @@
     (format s "      <p>~%")
     (format s "        This website is not affiliated with Hacker News.~%")
     (format s "        It is a community-maintained directory of~%")
-    (format s "        personal websites by people active in the HN community.~%")
+    (format s "        personal websites by active members of the HN community.~%")
     (format s "      </p>~%")
     (format s "    </footer>~%")
     (format s "  </body>~%")
