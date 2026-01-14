@@ -148,7 +148,7 @@ FAQ
     Contributions that add entries to this project, whether sourced
     from that list or elsewhere, are very welcome.
 
-[outcoldman]: outcoldman/hackernews-personal-blogs
+[outcoldman]: https://github.com/outcoldman/hackernews-personal-blogs
 
 
 Licence
