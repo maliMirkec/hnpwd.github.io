@@ -119,6 +119,12 @@
   :hnuid "susam"
   :bio "Creator of Emacs devil-mode.  Writes about technology and mathematics.")
 
+ (:name "Theodore Morley"
+  :site "https://tjmorley.com/"
+  :blog "https://tjmorley.com/articles.html"
+  :hnuid "morleytj"
+  :bio "Software developer and scientist at the Center for Digital Genomic Medicine.")
+
  (:name "Xe Iaso"
   :site "https://xeiaso.net/"
   :blog "https://xeiaso.net/blog/"
@@ -126,12 +132,6 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
- (:name "Theodore Morley"
-  :site "https://tjmorley.com/"
-  :blog "https://tjmorley.com/articles.html"
-  :hnuid "morleytj"
-  :bio "Software developer and scientist in the center for digital genomic medicine. Writes about medicine, US history, technology.")
- 
  (:name ""
   :site ""
   :blog ""
