@@ -157,6 +157,14 @@
   :hnuid "jszymborski"
   :bio "Computational biology researcher.  Writes about technology and society.")
 
+  (:name "Joseph Jude"
+  :site "https://www.jjude.com/"  
+  :feed "https://www.jjude.com/feed.xml"
+  :about "https://jjude.com/about/"
+  :now "https://www.jjude.com/now"
+  :hnuid "jjude"
+  :bio "CTO. Homeschooling Dad")
+ 
  (:name "Karl Knechtel"
   :site "https://zahlman.github.io/"
   :feed "https://zahlman.github.io/rss.xml"
