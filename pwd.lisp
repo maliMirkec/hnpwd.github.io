@@ -56,6 +56,13 @@
   :hnuid "gavinhoward"
   :bio "Recovering C programmer with many interests.")
 
+ (:name "Ian Reppel"
+  :site "https://ianreppel.org"
+  :feed "https://ianreppel.org/feed.xml"
+  :about "https://ianreppel.org/about"
+  :hnuid "i7l"
+  :bio "Writes about machine learning, quantum computing, and product management.")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
@@ -204,13 +211,6 @@
   :feed "https://xeiaso.net/blog.rss"
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
-
- (:name "Ian Reppel"
-  :site "https://ianreppel.org"
-  :feed "https://ianreppel.org/feed.xml"
-  :about "https://ianreppel.org/about"
-  :hnuid "i7l"
-  :bio "Writes about machine learning, quantum computing, and product management.")
 
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
