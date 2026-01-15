@@ -55,7 +55,7 @@
   :about "https://brajeshwar.com/about/"
   :now "https://brajeshwar.com/now/"
   :hnuid "Brajeshwar"
-  :bio "Helping build a beautiful & meaningful world for my daughters & their friends.")
+  :bio "Helping build a beautiful world for my daughters and their friends.")
 
  (:name "Bruno Croci"
   :site "https://crocidb.com/"
